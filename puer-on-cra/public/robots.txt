@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /img/
+Disallow: /assets/
+
+Host: https://www.teamaster.store
+Sitemap: https://www.teamaster.store/sitemap.xml
